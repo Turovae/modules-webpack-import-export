@@ -1,0 +1,23 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "Ваш проект масштабировался, и его нужно разделить на модули. Модули помогают обеспечить изолированность кода и внести порядок в проект. Но для работы с модулями необходимо настроить загрузчик модулей. Проверьте с помощью сервиса [caniuse.com](http://caniuse.com/), что модули поддерживаются не везде.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turovae/modules-webpack.git"
+  },
+  "keywords": [
+    "modules",
+    "webpack"
+  ],
+  "author": "TurovaE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turovae/modules-webpack/issues"
+  },
+  "homepage": "https://github.com/Turovae/modules-webpack#readme"
+}
