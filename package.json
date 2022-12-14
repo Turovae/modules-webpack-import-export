@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Turovae/modules-webpack.git"
+    "url": "git+https://github.com/Turovae/modules-webpack-import-export.git"
   },
   "keywords": [
     "modules",
@@ -20,9 +20,9 @@
   "author": "TurovaE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Turovae/modules-webpack/issues"
+    "url": "https://github.com/Turovae/modules-webpack-import-export.git/issues"
   },
-  "homepage": "https://github.com/Turovae/modules-webpack#readme",
+  "homepage": "https://github.com/Turovae/modules-webpack-import-export.git#readme",
   "devDependencies": {
     "babel-loader": "^9.1.0",
     "css-loader": "^6.7.2",
